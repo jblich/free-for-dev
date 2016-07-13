@@ -1,4 +1,10 @@
-# free-for-dev
+#  DISCLAIMER
+
+This is a modified fork form [ripienaar free-for-dev](https://github.com/ripienaar/free-for-dev).
+He/She made the initial list and we only update it, if you find it useful, say thanks to him
+
+free-for-dev
+=================
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
 
 This is list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
